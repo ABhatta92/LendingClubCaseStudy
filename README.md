@@ -23,9 +23,8 @@
 
 ## Technologies Used
 - Python 3.11.0
-- numpy
-- pandas
-- matplotlib
+- numpy 1.24.2
+- pandas 1.5.2
+- matplotlib 3.6.2
+- seaborn 0.12.2
 - MS Excel
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
