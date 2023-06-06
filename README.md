@@ -7,18 +7,9 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Exploratory Data Analysis to determine the factors which conttribute to defaults on loans offered on Lending Club using the dataset provided in the repo at /data/loan.csv
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -28,3 +19,13 @@
 - matplotlib 3.6.2
 - seaborn 0.12.2
 - MS Excel
+
+
+## Conclusions
+### Numerical Columns
+- Those who default tend to get loans at a higher interest rate as compared to those that do not
+- Those who have fully paid off their loans tend to have a higher income that those who default on their loans
+- The DTI is higher for those who default as compared to those who do not
+- Revol_util is higher for defaulters, indicating that they tend to use up more of their available lines of credit as compared to those who have not defaulted
+### Categorical Columns
+- 
