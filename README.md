@@ -28,4 +28,6 @@
 - The DTI is higher for those who default as compared to those who do not
 - Revol_util is higher for defaulters, indicating that they tend to use up more of their available lines of credit as compared to those who have not defaulted
 ### Categorical Columns
-- 
+- The percentage of defaulters with one public record bankruptcy is twice that of non-defaulters with one public record bankruptcy
+- There are no defaulters with more than 2 derogatory public records, however non-defaulters have more
+- As far as grade is concerned, very few defaulted loans are grade A (of those, the majority are A4/A5). However, among non-defaulters, more than a quarter of the loans are grade A.
